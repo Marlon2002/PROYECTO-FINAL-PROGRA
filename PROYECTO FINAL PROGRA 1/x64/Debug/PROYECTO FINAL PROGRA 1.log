@@ -1,0 +1,15 @@
+﻿  PROYECTO FINAL PROGRA 1.cpp
+C:\Users\HP\Downloads\PROYECTO-FINAL-PROGRA1-main\PROYECTO FINAL PROGRA 1\Compra_Detalle.h(31,7): warning C4101: 'q_estado': variable local sin referencia
+C:\Users\HP\Downloads\PROYECTO-FINAL-PROGRA1-main\PROYECTO FINAL PROGRA 1\Compra_Detalle.h(62,7): warning C4101: 'q_estado': variable local sin referencia
+C:\Users\HP\Downloads\PROYECTO-FINAL-PROGRA1-main\PROYECTO FINAL PROGRA 1\Compra_Detalle.h(69,7): warning C4101: 'q_estado': variable local sin referencia
+C:\Users\HP\Downloads\PROYECTO-FINAL-PROGRA1-main\PROYECTO FINAL PROGRA 1\Compra_Detalle.h(76,7): warning C4101: 'q_estado': variable local sin referencia
+C:\Users\HP\Downloads\PROYECTO-FINAL-PROGRA1-main\PROYECTO FINAL PROGRA 1\Compra.h(30,7): warning C4101: 'q_estado': variable local sin referencia
+C:\Users\HP\Downloads\PROYECTO-FINAL-PROGRA1-main\PROYECTO FINAL PROGRA 1\Compra.h(62,7): warning C4101: 'q_estado': variable local sin referencia
+C:\Users\HP\Downloads\PROYECTO-FINAL-PROGRA1-main\PROYECTO FINAL PROGRA 1\Compra.h(69,7): warning C4101: 'q_estado': variable local sin referencia
+C:\Users\HP\Downloads\PROYECTO-FINAL-PROGRA1-main\PROYECTO FINAL PROGRA 1\Compra.h(76,7): warning C4101: 'q_estado': variable local sin referencia
+C:\Users\HP\Downloads\PROYECTO-FINAL-PROGRA1-main\PROYECTO FINAL PROGRA 1\PROYECTO FINAL PROGRA 1.cpp(763,9): warning C4101: 'idp': variable local sin referencia
+C:\Users\HP\Downloads\PROYECTO-FINAL-PROGRA1-main\PROYECTO FINAL PROGRA 1\PROYECTO FINAL PROGRA 1.cpp(897,14): warning C4101: 'idp': variable local sin referencia
+C:\Users\HP\Downloads\PROYECTO-FINAL-PROGRA1-main\PROYECTO FINAL PROGRA 1\PROYECTO FINAL PROGRA 1.cpp(898,10): warning C4101: 'existe': variable local sin referencia
+  Proveedor.cpp
+  Generando código...
+  PROYECTO FINAL PROGRA 1.vcxproj -> C:\Users\HP\Downloads\PROYECTO-FINAL-PROGRA1-main\x64\Debug\PROYECTO FINAL PROGRA 1.exe
